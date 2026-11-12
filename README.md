@@ -8,6 +8,10 @@ The Superstore Sales Performance Dashboard is a data analytics project developed
 
 The dashboard presents key performance indicators (KPIs) and interactive visualizations to help users understand business performance across different regions, customer segments, shipping modes, product categories, and time periods.
 
+## Dashboard Preview
+
+![Superstore Dashboard](01%20-%20DASHBOARD%20SCREENSHOT.png)
+
 ## Project Objectives
 
 - Analyze overall sales and profitability.
@@ -65,6 +69,4 @@ Interactive filters are available for Region, Segment, Ship Mode, and Order Date
 
 The repository includes the dashboard, its exported PDF, and supporting business insights documentation.
 
-## Author
 
-Data Analytics Portfolio Project
