@@ -10,7 +10,7 @@ The dashboard presents key performance indicators (KPIs) and interactive visuali
 
 ## Dashboard Preview
 
-![Superstore Dashboard](01%20-%20DASHBOARD%20SCREENSHOT.png)
+![Superstore Dashboard](01%20-%20Dashboard%20Screenshot.png)
 
 ## Project Objectives
 
